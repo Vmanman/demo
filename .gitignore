@@ -26,4 +26,3 @@ hs_err_pid*
 test/
 target/
 *.iml
-.gitignore
